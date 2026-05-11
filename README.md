@@ -1,5 +1,4 @@
-# startup-api-testing-postman
-Manual API testing using Postman for startup e-commerce platform. REST API validation, bug reporting, status code analysis.
+
 # Startup API Testing – Postman
 
 Manual API testing project for a startup e-commerce platform.
